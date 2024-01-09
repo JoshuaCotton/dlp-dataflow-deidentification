@@ -92,7 +92,7 @@ projected usage.
 
 3. Use the link below to open Cloud Shell.
 
-   [![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/GoogleCloudPlatform/dlp-dataflow-deidentification.git)
+   [![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/JoshuaCotton/dlp-dataflow-deidentification.git)
 
 4. Run the following commands to set up the data tokenization solution in your Google Cloud project:
 
